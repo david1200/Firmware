@@ -50,7 +50,7 @@ fi
 set MAV_TYPE 1
 
 # Set mixer.
-set MIXER wingwing
+set MIXER Funcub
 
 # Provide ESC a constant 1000 us pulse.
 set PWM_OUT 5
