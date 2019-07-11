@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# @name Bormatec Maja
+# @name Funcub
 #
 # @type Standard Plane
 # @class Plane
@@ -10,7 +10,7 @@
 # @output MAIN3 elevator
 # @output MAIN4 rudder
 # @output MAIN5 throttle
-# @output MAIN6 wheel
+# @output MAIN6 flaps
 # @output MAIN7 flaps
 #
 # @output AUX1 feed-through of RC AUX1 channel
